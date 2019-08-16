@@ -1,0 +1,33 @@
+.header {
+    background: lightblue;
+    color: blue;
+    padding: 10px;
+    font-size: 20px;
+    margin-top: 0;
+}
+.title {
+    text-align: center;
+    margin-top: 0;
+}
+.user {
+    width: 200px;
+    
+    
+    
+}
+
+.container {
+    
+    font-size: 20px;
+    width: 1000px;
+    margin: 0 auto;
+
+}
+.footer {
+    background-color: lightblue;
+    color: blue;
+    text-align: center; 
+    padding: 10px;
+    font-size: 20px;
+
+}
